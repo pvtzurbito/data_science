@@ -4,10 +4,10 @@ Here, you can see the documentations of the datasets that I have examined.
 ### Python
 <table>
   <tr>
-    <td>**Title**</td>
-    <td>**Tools used**</td>
-    <td>**Results Description**</td>
-    <td>**Link**</td>
+    <td><b>Title</b></td>
+    <td><b>Tools used</b></td>
+    <td><b>Results Description</b></td>
+    <td><b>Link</b></td>
   </tr>
   <tr>
     <td>JPMorgan Balance Sheet</td>
