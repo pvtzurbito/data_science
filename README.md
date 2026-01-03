@@ -23,6 +23,6 @@ Here, you can see a short summary of the datasets that I have examined.
 
 #### Key Insights and Lessons Learned
 <ul>
-  <li>Learned how to implement DataFrame renaming, filling and dropping columns and cells, and reshaping using `set_index('column_name').T`. </li>
+  <li>Learned how to implement DataFrame renaming, filling and dropping columns and cells, and reshaping using ` set_index('column_name').T `. </li>
   <li>Learned the definition of debt-to-assets ratio and equity ratio.</li>
 </ul>
