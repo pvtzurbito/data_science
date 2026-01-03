@@ -1,5 +1,5 @@
-## Welcome to my Data Science Repository
-Here, you can see the documentations of the datasets that I have examined.
+## Welcome to My Data Science Repository!
+Here, you can see a short summary of the datasets that I have examined.
 
 ### Python
 <table>
@@ -11,6 +11,12 @@ Here, you can see the documentations of the datasets that I have examined.
   <tr>
     <td><a href = "https://github.com/pvtzurbito/data_science/tree/main/Learning%20Pandas">JPMorgan Balance Sheet</a></td>
     <td>Pandas</td>
-    <td>Employed data cleaning by dropping columns, feeling NaN cells, selected rows, transposed long data to a wide format, and computed for debt-to-assets ratio and equity ratio.</td>
+    <td><ul>
+      <li>Data Cleaning - Removed the 2020 columns due to the lack of data present in the columns, and filling NaNs with 0s.</li>
+      <li>Data Reshaping - Shifted the data from a wide format (metrics-based) with a long format (time-based).</li>
+      <li>Feature Engineering - Addition of two metrics, namely the debt-to-asset ratio and equity ratio.</li>
+      <li>Documentation - Used the markdown options inside Jupyter notebooks to make the steps readable.</li>
+    </ul>
+    </td>
   </tr>
 </table>
