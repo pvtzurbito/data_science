@@ -2,9 +2,6 @@
 Here, you can see the documentations of the datasets that I have examined.
 
 ### Python
-th{
-  text-align: center;
-}
 <table>
   <tr>
     <th>Title</th>
