@@ -22,6 +22,7 @@ Here, you can see a short summary of the datasets that I have examined.
 </table>
 
 #### Key Insights and Lessons Learned
+##### JPMorgan Chase Balance Sheet
 <ul>
   <li>Learned how to implement DataFrame renaming, filling and dropping columns and cells, and reshaping using <code>set_index('column_name').T</code>. </li>
   <li>Learned the definition of debt-to-assets ratio and equity ratio.</li>
