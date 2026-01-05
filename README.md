@@ -22,9 +22,11 @@ Here, you can see a short summary of the datasets that I have examined.
 </table>
 
 #### Key Insights and Lessons Learned
+##### JPMorgan Chase Balance Sheet
 <ul>
   <li>Learned how to implement DataFrame renaming, filling and dropping columns and cells, and reshaping using <code>set_index('column_name').T</code>. </li>
   <li>Learned the definition of debt-to-assets ratio and equity ratio.</li>
   <li>Based on the balance sheet, the debt-to-assets and equity ratios are steadily increasing from 2021 to 2024, indicating that the bank is likely on their expansion phase.</li>
-  <li>In the addition of the Asset Growth using <code>balance_t['Asset Growth'] = balance_t['Total Assets'].pct_change()</code>, I have seen that the bank has shrunk its assets from 2021 - 2022 and expanded from the years 2022 - 2024. It is also important to arrange the dates in a chronological ascending order.</li>
+  <li>In the addition of the Asset Growth using <code>balance_t['Asset Growth'] = balance_t['Total Assets'].pct_change()</code>, I have seen that the bank has shrunk its assets from 2021 - 2022 (-2.08) and expanded from the years 2022 - 2024(5.72, and 3.29 respectively). It is also important to arrange the dates in a chronological ascending order.</li>
+  <li>Further, upon inspecting the liquidity to debt ratio, it was seen that it has continuously shrunk from 2.83 (2021) to 1.68 (2024).</li>
 </ul>
