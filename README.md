@@ -21,7 +21,7 @@ Here, you can see a short summary of the datasets that I have examined.
   </tr>
   <tr>
     <td><a href = "https://github.com/pvtzurbito/data_science/tree/main/Learning%20Pandas/jupyter%20notebooks/final%20reports/Google%20Advanced%20Data%20Analytics">Google Advanced Data Analytics</td>
-    <td>Pandas, Matplotlib</td>
+    <td>Pandas, Matplotlib, Jupyter</td>
     <td><ul>
       <li>Data Aggregation - Computed for the mean of the dataset.</li>
       <li>Data Grouping - Used the <code>groupby()</code> function for grouping the data</li>
