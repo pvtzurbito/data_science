@@ -29,6 +29,14 @@ Here, you can see a short summary of the datasets that I have examined.
       <li>Data Visualization - Made charts using <code>matplotlib.pyplot</code>.</li>
     </ul>
   </tr>
+  <tr>
+    <td><a href = "https://github.com/pvtzurbito/pandas_exercises">Pandas Exercises</a></td>
+    <td>Pandas</td>
+    <td>
+      <ul>
+        <li>Forked pandas exercises from <code>/guipsamora/pandas_exercises.</code></li>
+    </td>
+  </tr>
 </table>
 
 #### Key Insights and Lessons Learned
